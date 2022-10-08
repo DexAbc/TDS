@@ -1,2 +1,1 @@
-wait(10)
-RunService:Set3dRenderingEnabled(false)
+game:GetService("RunService"):Set3dRenderingEnabled(false)
