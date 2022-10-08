@@ -1,4 +1,4 @@
-local averageGameTime = 25 --In minutes
+local averageGameTime = 12 --In minutes
 local function Rejoin()
 if game.PlaceId == 5591597781 then--support for other games
 game:GetService("TeleportService"):Teleport(3260590327)
